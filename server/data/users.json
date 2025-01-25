@@ -1,0 +1,22 @@
+[
+    {
+        "username": "User2",
+        "password": "$2b$12$Ojng1Nsalgze5lgKhOwR.e6JqEU0Uo3IbPJaSlaTw0hWGOXic5xEu",
+        "session_id": "7982f6e5-a78b-481c-9243-c9f3aefd757f",
+        "token": "",
+        "rating": 1231
+    },
+    {
+        "username": "User3",
+        "password": "$2b$12$/98xgIF0ZlRZ9tJQnGif5Ou7K5D4m6WGYEupmmTM892YhWTapo5H6",
+        "session_id": "75ed3354-c877-4801-98f5-29dfff8a08fa",
+        "token": "",
+        "rating": 1100
+    },
+    {
+        "username": "User1",
+        "password": "$2b$12$pQRKB43v8XOBUgo0eSwUieVXnoIOE8xeNWYWZ1nZnqvOinB9Vj3Xm",
+        "session_id": "b949d3a6-0587-4a07-a008-86ad1f71b5bb",
+        "rating": 1164
+    }
+]
